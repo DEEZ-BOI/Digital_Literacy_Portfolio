@@ -1,4 +1,4 @@
-# Digital Literacy Portfolia
+# Digital Literacy Portfolio
 
 ## Task 1: Digital Literacy Infographic
 
