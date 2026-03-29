@@ -85,7 +85,7 @@ This activity showed how Google Forms can be used for conducting quizzes and col
 ### Link
 - Google Form: [https://forms.gle/Fojb9JeH7z7qvXUc7](https://forms.gle/Fojb9JeH7z7qvXUc7)
 
-Screenshots of the form and the response sheet are available as task-3-platforms/google-form.png task-3-platforms/google-sheet.png
+Screenshots of the form and the response sheet are available as task-3-platforms/google-form.png and task-3-platforms/google-sheet.png
 
 ### Reflection
 
